@@ -12,7 +12,7 @@
 
 Как это выглядит:
 
-{{ :datalake:er_coding_1.png |}}
+![Image](/images/er_coding_1.png)
 
 Потеря дисков и восстановление
 
