@@ -12,7 +12,7 @@
 
 Как это выглядит:
 
-![Image](/pdp-expert/images/er_coding_1.png)
+![Image](images/er_coding_1.png)
 
 Потеря дисков и восстановление
 
