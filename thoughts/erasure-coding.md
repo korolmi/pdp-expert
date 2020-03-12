@@ -16,11 +16,11 @@
 
 Потеря дисков и восстановление
 
-![Image](/images/er_coding_2.PNG)
+![Image](../images/er_coding_2.PNG)
 
 Теоретически (наверное) возможно множество вариантов (конфигураций) реализации EC схем, на практике (в Hadoop) их не так много
 
-![Image](/images/er_coding_3.PNG)
+![Image](../images/er_coding_3.PNG)
 
 Здесь:
 
