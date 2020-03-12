@@ -12,7 +12,7 @@
 
 Как это выглядит:
 
-![Image](/images/er_coding_1.png)
+![Image](/images/er_coding_1.PNG)
 
 Потеря дисков и восстановление
 
