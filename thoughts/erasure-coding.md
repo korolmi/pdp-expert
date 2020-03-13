@@ -46,7 +46,7 @@
 
 Ссылки
 
- [link]: url title
+ [link](url) title
 
  [sss]: "https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html" www
 
