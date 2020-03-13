@@ -46,11 +46,7 @@
 
 Ссылки
 
- [link](url) title
-
- [sss]: "https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html" www
-
-* [от первоисточника]: https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html
-* https://docs.arenadata.io/adh/administration/hdfs/ErasureCoding.html (русский вариант)
-* https://hal.inria.fr/hal-02263116/document (интересная статья)
-* https://zenodo.org/record/3550780/files/Report_Nazerke_Seidan.pdf (с картинками)
+* [от первоисточника](https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html)
+* [русский вариант от Аренадата](https://docs.arenadata.io/adh/administration/hdfs/ErasureCoding.html)
+* [интересная статья про эффективность](https://hal.inria.fr/hal-02263116/document)
+* [PDF с картинками которые я использовал](https://zenodo.org/record/3550780/files/Report_Nazerke_Seidan.pdf)
