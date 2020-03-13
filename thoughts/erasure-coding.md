@@ -46,7 +46,9 @@
 
 Ссылки
 
-[sss]: "https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html"
+[link]: url title
+
+[sss]: "https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html" www
 
 * [от первоисточника]: https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html
 * https://docs.arenadata.io/adh/administration/hdfs/ErasureCoding.html (русский вариант)
