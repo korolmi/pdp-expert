@@ -46,7 +46,7 @@
 
 Ссылки
 
-* [от первоисточника] https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html
+* [от первоисточника]: https://hadoop.apache.org/docs/r3.2.1/hadoop-project-dist/hadoop-hdfs/HDFSErasureCoding.html
 * https://docs.arenadata.io/adh/administration/hdfs/ErasureCoding.html (русский вариант)
 * https://hal.inria.fr/hal-02263116/document (интересная статья)
 * https://zenodo.org/record/3550780/files/Report_Nazerke_Seidan.pdf (с картинками)
