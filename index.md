@@ -5,7 +5,7 @@ Just a test page and links to some other test pages
 ## Harb publications
 
 * [Lazy Evaluation and big SQL](https://korolmi.github.io/pdp-expert/habr/spark-lazy-sql.html)
-* [](https://korolmi.github.io/pdp-expert/thoughts/erasure-coding.html)
+* [Livy and Spark+Airflow](https://korolmi.github.io/pdp-expert/thoughts/livy-spark-airflow.html)
 
 ## Thoughts
 
