@@ -1,14 +1,11 @@
-# hello
+# About Articles
 
-Just a test page and links to some other test pages
+In our articles we describe important technology aspects, share thoughts, call for opinions, etc.
 
-## Harb publications
+## Methodological articles 
 
-* [Lazy Evaluation and big SQL](https://korolmi.github.io/pdp-expert/habr/spark-lazy-sql.html)
-* [Livy and Spark+Airflow](https://korolmi.github.io/pdp-expert/habr/livy-spark-airflow.html)
+## Apache Spark articles
 
-## Thoughts
-
-* [erasure coding](https://korolmi.github.io/pdp-expert/thoughts/erasure-coding.html)
-
-This is a test of GitHub pages, this site is available at [korolmi.github.io/pdp-expert](https://korolmi.github.io/pdp-expert/thoughts/erasure-coding.html)
+* [Lazy Evaluation and big SQL](https://pages.agilecoding.academy/habr/spark-lazy-sql.html)
+* [Livy and Spark+Airflow](https://pages.agilecoding.academy/habr/livy-spark-airflow.html)
+* [erasure coding](https://pages.agilecoding.academy/thoughts/erasure-coding.html)
