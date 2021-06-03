@@ -1,5 +1,7 @@
 # Why NOT to use CSV with Apache Spark
 
+__This article was published on Medium, you can find it [here](https://korolmi.medium.com/why-not-to-use-csv-with-apache-spark-9b607e2a7f24)__
+
 I heard this once again recently:
 
     “CSV is a popular data storage format natively supported by Apache Spark…”
