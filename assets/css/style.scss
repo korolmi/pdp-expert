@@ -2,11 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;   
+}
+
 .main-content {
   h5 {
    color: #ff0000;
  }
- img {
-   margin: auto;
-  }
 }
