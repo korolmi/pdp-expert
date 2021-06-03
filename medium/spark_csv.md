@@ -2,7 +2,7 @@
 
 I heard this once again recently:
 
-  “CSV is a popular data storage format natively supported by Apache Spark…”
+    “CSV is a popular data storage format natively supported by Apache Spark…”
 
 Well, “popular” — yes, “natively supported” — yes, but…, “data storage” — NO. 
 Phrases like this might not only confuse people, but lead to significant time 
@@ -19,3 +19,13 @@ So let’s go, some common things first:
 * real data load (meaning disk read activity) happens when we execute .save() or any other action
 
 Sound good so far, right?
+
+    “…practice as the criterion of truth…”
+
+Now what happens in practice (I pasted Jupyter notebook fragments for simplicity)
+
+STEP 1. Execute simple CSV read transformation
+
+![](code1.png)
+
+
