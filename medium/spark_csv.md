@@ -26,6 +26,16 @@ Now what happens in practice (I pasted Jupyter notebook fragments for simplicity
 
 STEP 1. Execute simple CSV read transformation
 
-![](code1.png)
+![](../images/code1.png)
+
+STEP 2. Print resulting dataframe schema with .printSchema()
+
+![](../images/code2.png)
+
+STEP 3. Save dataframe to file (format does not matter at the moment — let it be CSV again)
+
+![](../images/code3.png)
+
+Nothing extraordinary so far, file is small and it is hard to notice delay in execution on step 1 (during .load()). Well, there is Spark GUI to help us, here is what is shows for our small app:
 
 
