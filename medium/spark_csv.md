@@ -93,7 +93,7 @@ Experienced Spark developers already saw some “inconsistencies” in what I sa
 
 Schema inference is not free in Spark:
 
-![](../images/docs.png)
+![](../images/docs1.png)
 
 It is expected to go through file data **once** when one uses schema inference (`.option(“inferSchema”,”true”)`). But why had I got file data read **twice** (see screenshots above)?
 
